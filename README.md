@@ -50,6 +50,7 @@ npm start
 ├── 📄 winning-combinations.js # Contains possible winning patterns
 ├── 📄 index.js               # Entry point of the React app
 ├── 📄 styles.css             # Basic styling for the game
+```
 
 
 
