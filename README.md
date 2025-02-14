@@ -57,10 +57,10 @@ npm start
  ## 🤝 Contributing
 **Want to contribute? Follow these steps:
 
-**Fork the repository** 🍴
-**Create a new branch: git checkout** -b new-feature
-**Make your changes and commit: git commit** -m "Added new feature"
-**Push the branch:** git push origin new-feature
-**Open a Pull Request** (PR) 🚀
+- **Fork the repository** 🍴
+- **Create a new branch: git checkout** -b new-feature
+- **Make your changes and commit: git commit** -m "Added new feature"
+- **Push the branch:** git push origin new-feature
+- **Open a Pull Request** (PR) 🚀
 
 
