@@ -36,3 +36,27 @@ npm start
 ![image](https://github.com/user-attachments/assets/b9fc28f4-4ec6-4c75-a028-5392d3ab6290)
 
 
+##📜 Code Structure
+
+📂 src
+ ├── 📂 components
+ │   ├── 📄 Player.js       # Manages player names and active state
+ │   ├── 📄 GameBoard.js    # Renders the game board and handles clicks
+ │   ├── 📄 GameOver.js     # Displays the winner or draw message
+ │   ├── 📄 Log.js          # Tracks player moves
+ ├── 📄 App.js              # Main application logic
+ ├── 📄 winning-combinations.js # Contains possible winning patterns
+ ├── 📄 index.js            # Entry point of the React app
+ ├── 📄 styles.css          # Basic styling for the game
+
+
+ ## 🤝 Contributing
+**Want to contribute? Follow these steps:
+
+**Fork the repository 🍴
+**Create a new branch: git checkout -b new-feature
+**Make your changes and commit: git commit -m "Added new feature"
+**Push the branch: git push origin new-feature
+**Open a Pull Request (PR) 🚀
+
+
