@@ -26,7 +26,7 @@ git clone https://github.com/EmirGungor/TicTacToe_w-React.git
 cd TicTacToe_w-React
 npm install
 npm start
-
+```
 
 
 
@@ -34,6 +34,5 @@ npm start
 ![image](https://github.com/user-attachments/assets/1d542e5e-48c2-4637-8c9b-0db3382aa406)
 ![image](https://github.com/user-attachments/assets/21628618-fdb4-43c8-9b7f-38aff06aa039)
 ![image](https://github.com/user-attachments/assets/b9fc28f4-4ec6-4c75-a028-5392d3ab6290)
-
 
 
