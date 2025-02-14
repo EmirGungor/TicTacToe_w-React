@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 git clone https://github.com/EmirGungor/TicTacToe_w-React.git
 cd TicTacToe_w-React
 npm install
-npm start
+npm run dev
 ```
 
 
